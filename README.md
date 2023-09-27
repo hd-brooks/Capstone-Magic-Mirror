@@ -92,7 +92,7 @@ Contributions to this project are welcome! If you have ideas for improvements or
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for details.
+There are no licenses in use at the moment. Periodically check [LICENSE.md](LICENSE.md) for details on new licenses dded.
 
 Enjoy your Smart Mirror Device!
 
